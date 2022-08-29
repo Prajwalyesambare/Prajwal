@@ -1,0 +1,45 @@
+.main{
+    height: 500px; width: 500px;
+    background-color: brown;
+    margin: auto;    
+}
+.header{
+    height: 100px; width: 500px;
+    background-color: aqua;
+}
+.logo{
+    height: 100px; width: 100px;
+    background-color: antiquewhite;
+    float: left;
+}
+.logo img{
+    height: 100px; width: 100px;
+}
+.social{
+    height: 50px; width: 400px;
+    background-color: azure;
+    float: left;
+}
+.social img{
+    height: 40px; width: 80px;
+    margin: 8px;
+    float: left;
+}
+.menu{
+    height: 50px; width: 400px;
+    background-color: beige;
+    float: left;
+}   
+.menu ul li{display:inline-block;
+margin: auto;
+padding-left: 0%;
+text-align: center;}
+
+.container{
+    height: 300px; width: 500px;
+    background-color: yellowgreen;
+float: left;
+}
+.container img{height: 300px; width: 500px; }
+.footer{ height: 100px;width: 500px; background-color: violet;
+float: left;}
